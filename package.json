@@ -1,0 +1,23 @@
+{
+  "name": "code-wizard-quiz",
+  "version": "1.0.0",
+  "description": "An interactive quiz application to test programming knowledge",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx serve .",
+    "dev": "npx serve . -l 3000"
+  },
+  "keywords": [
+    "quiz",
+    "javascript",
+    "html",
+    "css",
+    "coding",
+    "programming"
+  ],
+  "author": "Code Wizard Quiz",
+  "license": "MIT",
+  "devDependencies": {
+    "serve": "^14.0.0"
+  }
+}
